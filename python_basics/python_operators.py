@@ -1,0 +1,6 @@
+# Bitwise     ( |, &, ^, ~, <<, >> )
+print(6^3)
+# Membership  ( in, not in )
+print(2 in [1,4,2])
+# Identity    ( is, is not )
+print(2 is 3)
